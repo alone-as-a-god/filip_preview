@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #7a536c;
+  color: white;
+}
+
+h1 {
+  position: absolute;
+
+  top: 22vh;
+  left: 50vw;
+  transform: translate(-50%, -50%);
+  font-size: 5rem;
+  text-align: center;
+  font-family: sans-serif;
+  color: #A0D2DB;
+}
