@@ -14,5 +14,8 @@ h1 {
   font-size: 5rem;
   text-align: center;
   font-family: sans-serif;
-  color: #A0D2DB;
+  color: #ffffff;
+  text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
+  filter: drop-shadow(5px 5px #000000);
+
 }
